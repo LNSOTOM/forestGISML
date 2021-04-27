@@ -6,18 +6,22 @@ as: climatic variables derived from rainfall and temperatures, topographic attri
 elevation model, edaphic attributes (geology composition and soil attributes) that contribute to explain
 the forest growth. In order to identify these factors, different machine learning algorithms methods
 have been applied. 
+## Goal
 The goal is to reach the best model that contributes to explain the predicted
 observed variable. The variable observed or target variable represents the site index (SI=mean height
 dominant tree at a site) values localized by site. The input of the model starts by using the site index
 values derived from a non-linear regression model that establish growth canopy potential at a site and
 fit the multiple factors into the models, which could explain the productivity by location. 
+## Data sourced
 The SI was sourced by the forestry company Timberlands Pacific. My supervisors are: Dr. Muhammad Bilal Amin
 (Computing & Information Systems, University of Tasmania), Dr. Matthew J Cracknell (Postdoctoral
 Research Fellow in Earth Informatics at the ARC Industrial Transformation Research Hub for
 Transforming the Mining Value Chain) and Dr. Robert Musk (Data Analyst/Forest Scientist at
 Timberlands Pacific).
+## Processing
 For data collection and processing, GIS processing techniques has been applying to
 extract all the attributes and achieved more accurate predictions.
+## Data Dimension
 The survey selected for analysis was collected from five sites with wide variation in landscape
 conditioning and climate factors, and a diverse geology and soil attributes related to the area that
 influence the productivity of radiata pine across the estate. The data used for the modelling is
