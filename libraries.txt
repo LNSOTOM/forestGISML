@@ -56,6 +56,7 @@ import rasterio
 ## rasterio xarray extension
 import rioxarray
 
+## makes working with labelled multi-dimensional arrays simple, efficient, and fun
 import xarray
 
 ## for manipulating geospatial raster data and OGR for manipulating geospatial vector data 
