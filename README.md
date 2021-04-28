@@ -34,12 +34,14 @@ optimal resource utilization with maximization of productivity.
 ## 2.1 Getting Started
 0. libraries.txt <br />
 1. data_preprocessing.py <br />
-## 2.2 Machine Learning Algorihtms
+## 2.2 Machine Learning Algorithms
 ∆ linear_regression.py <br />
 ∆ polynomial_regression.py <br />
 ∆ decisionTree_regression.py <br />
 ∆ randomForests_regression.py <br />
-∆ gradientBoosted_regression.py <br />
+∆ gradientBoosting_regression.py <br />
 ∆ deepLearning.py <br />
+## 2.3 Statistics
+## 2.4 Spatial Analysis
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LNSOTOM/forestGISML/master?filepath=regressionModel%20(1).ipynb)
