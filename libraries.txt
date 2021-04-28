@@ -112,12 +112,13 @@ import matplotlib.pyplot as plt
 !pip install matplotlib==3.1.3
 import seaborn as sns
 
-## 3.for statistical tests
+## 3.for statistical tests and stats
 import scipy
 import statistics
 from scipy import stats
 import statsmodels.formula.api as smf
 import statsmodels.api as sm
+from math import sqrt
 
 ##############################################
 
