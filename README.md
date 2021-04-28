@@ -25,8 +25,7 @@ The survey selected for analysis was collected from five sites with wide variati
 conditioning and climate factors, and a diverse geology and soil attributes related to the area that
 influence the productivity of radiata pine across the estate. The data used for the modelling is
 comprised by 23 datasets and 953556 observations
-
-# Contribution
+## Contribution
 This research will contribute by developing a novel ensemble learning base
 technique which will produce predictive models to assist a forest manager in
 optimal resource utilization with maximization of productivity.
