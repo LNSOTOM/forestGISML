@@ -31,11 +31,11 @@ technique which will produce predictive models to assist a forest manager in
 optimal resource utilization with maximization of productivity.
 
 # 2 Scripts Guideline
-linear_regression.py <br />
-polynomial_regression.py <br />
-decisionTree_regression.py <br />
-randomForests_regression.py <br />
-gradientBoosted_regression.py <br />
-deepLearning.py <br />
+∆ linear_regression.py <br />
+∆ polynomial_regression.py <br />
+∆ decisionTree_regression.py <br />
+∆ randomForests_regression.py <br />
+∆ gradientBoosted_regression.py <br />
+∆ deepLearning.py <br />
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LNSOTOM/forestGISML/master?filepath=regressionModel%20(1).ipynb)
