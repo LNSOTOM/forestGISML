@@ -41,7 +41,7 @@ optimal resource utilization with maximization of productivity.
 ∆ randomForests_regression.py <br />
 ∆ gradientBoosting_regression.py <br />
 ∆ deepLearning.py <br />
-## 2.3 Statistics
+## 2.3 Statistics and Exploration Data Analysis
 ## 2.4 Spatial Analysis
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LNSOTOM/forestGISML/master?filepath=regressionModel%20(1).ipynb)
