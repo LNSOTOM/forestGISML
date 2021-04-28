@@ -32,9 +32,9 @@ optimal resource utilization with maximization of productivity.
 
 # 2 Scripts Guideline
 ## Start
-0.librares.txt <br />
-1.data_preprocessing.py <br />
-## MACHINE LEARNING ALGORITHMS
+0. librares.txt <br />
+1. data_preprocessing.py <br />
+## Machine Learning Algorihtms
 ∆ linear_regression.py <br />
 ∆ polynomial_regression.py <br />
 ∆ decisionTree_regression.py <br />
