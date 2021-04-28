@@ -116,9 +116,18 @@ import seaborn as sns
 import scipy
 import statistics
 from scipy import stats
+
 import statsmodels.formula.api as smf
 import statsmodels.api as sm
+
 from math import sqrt
+
+from numpy import sqrt
+from numpy import mean
+from numpy import std
+from numpy import sum as arraysum
+from scipy.stats import linregress
+from matplotlib import pyplot
 
 ##############################################
 
@@ -129,6 +138,10 @@ from math import sqrt
 
 ## 2.for machine learning
 from sklearn import model_selection, preprocessing, feature_selection, ensemble, linear_model, metrics, decomposition
+from sklearn.datasets import make_regression
+
+# Using Skicit-learn to split data into training and testing sets
+from sklearn.model_selection import train_test_split
 
 ### normalize
 from sklearn.preprocessing import MinMaxScaler
@@ -136,15 +149,34 @@ from sklearn.preprocessing import MinMaxScaler
 ### preprocess
 from sklearn import preprocessing
 
+### 2.1.Import Model: Linear Regression
+from sklearn.linear_model import LinearRegression
+from sklearn import linear_model
+
+### 2.2.Import Model: Polynomial Regression
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.linear_model import LinearRegression
+
+### 2.3.Import Model: Decision Tree Regressor
+from sklearn.tree import DecisionTreeRegressor
+
+### 2.4.Import Model: Random Forest Regressor
+from sklearn.ensemble import RandomForestRegressor
+
+### 2.5.Import Model: Gradient Boosted Regressor
+from sklearn.ensemble import GradientBoostingRegressor
+
 ## 3.Local Interpretable Model-Agnostic Explanations for machine learning classifiers
 !pip install lime
+import lime 
 
 ### for explainer
 from lime import lime_tabular
 
 ## 4.Cross validation
 from sklearn.model_selection import cross_val_score
-##permutation
+
+##permutation feature importance
 !pip install rfpimp
 
 # 5.TensorFlow and tf.keras
