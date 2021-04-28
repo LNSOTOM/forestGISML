@@ -140,6 +140,8 @@ from sklearn import preprocessing
 from lime import lime_tabular
 
 ## 4.Cross validation
+from sklearn.model_selection import cross_val_score
+##permutation
 !pip install rfpimp
 
 # 5.TensorFlow and tf.keras
