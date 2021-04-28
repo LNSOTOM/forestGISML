@@ -31,7 +31,7 @@ technique which will produce predictive models to assist a forest manager in
 optimal resource utilization with maximization of productivity.
 
 # 2 Scripts Guideline
-linear_regression.py  polynomial_regression.py
+linear_regression.py  &nbsp polynomial_regression.py
 decisionTree_regression.py
 randomForests_regression.py
 gradientBoosted_regression.py
