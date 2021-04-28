@@ -18,7 +18,6 @@ The SI was sourced by the forestry company Timberlands Pacific. My supervisors a
 Research Fellow in Earth Informatics at the ARC Industrial Transformation Research Hub for
 Transforming the Mining Value Chain) and Dr. Robert Musk (Data Analyst/Forest Scientist at
 Timberlands Pacific).
-## Processing
 For data collection and processing, GIS processing techniques has been applying to
 extract all the attributes and achieved more accurate predictions.
 ## Data Dimension
