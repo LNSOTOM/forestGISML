@@ -31,8 +31,8 @@ technique which will produce predictive models to assist a forest manager in
 optimal resource utilization with maximization of productivity.
 
 # 2 Scripts Guideline
-## 2.1 Start
-0. librares.txt <br />
+## 2.1 Getting Started
+0. libraries.txt <br />
 1. data_preprocessing.py <br />
 ## 2.2 Machine Learning Algorihtms
 ∆ linear_regression.py <br />
