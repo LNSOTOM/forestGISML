@@ -448,3 +448,4 @@ def get_cv_scores(model):
 lm = LinearRegression()
 # get cross val scores
 get_cv_scores(lm)
+   
