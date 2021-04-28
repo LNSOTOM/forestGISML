@@ -47,14 +47,45 @@ from matplotlib.colors import ListedColormap, BoundaryNorm
 from matplotlib import cm
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 
+## Retrieve, model, analyze, and visualize OpenStreetMap street networks and other spatial data
+import osmnx
+
+## Fast and direct raster I/O for use with Numpy and SciPy
+!pip install rasterio
+##reads and write geospatial raster data
+import rasterio
+
+## rasterio xarray extension
+import rioxarray
+
+import xarray
+
+## for manipulating geospatial raster data and OGR for manipulating geospatial vector data 
+!pip install GDAL
+
+# work easier to plot and manipulate spatial data in Python (crop raster, plot multiple bands...)
+!pip install earthpy
+import earthpy.plot as ep
+
+#Datashader is a data rasterization pipeline for automating the process of creating meaningful representations of large amounts of data.
+import datashader
+
+#to retrieve tile maps from the internet
+import contextily as cx
+
+#Manipulation and analysis of geometric objects in the Cartesian plane.
+from shapely.geometry import box
 
 ##############################################
 
 # III_SPATIAL ANALYSIS & STATISTICS libraries
-## 1.Python interface to PROJ (cartographic projections and coordinate transformations library)
+## 1.Python Spatial Analysis Library
 !pip install pysal
 
+# 2.Core components of PySAL A library of spatial analysis functions
 !pip install libpysal
+
+# 3.Exploratory Spatial Data Analysis in PySAL
 pip install esda
 
 from pysal.lib import weights
@@ -108,5 +139,15 @@ from sklearn import preprocessing
 ### for explainer
 from lime import lime_tabular
 
-## 4. Cross validation
+## 4.Cross validation
 !pip install rfpimp
+
+# 5.TensorFlow and tf.keras
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras.layers import Conv2D, MaxPooling2D, Dropout, Flatten, Dense
+import tensorflow as tf
+from tensorflow.keras import layers
+from tensorflow.keras.layers.experimental import preprocessing
+
+
