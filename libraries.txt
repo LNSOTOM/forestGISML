@@ -63,6 +63,9 @@ import xarray
 ## for manipulating geospatial raster data and OGR for manipulating geospatial vector data 
 !pip install GDAL
 
+## RichDEM is a set of digital elevation model (DEM) hydrologic analysis tools. It can calculate a number of terrain attributes.
+import richdem as rd
+
 # work easier to plot and manipulate spatial data in Python (crop raster, plot multiple bands...)
 !pip install earthpy
 import earthpy.plot as ep
