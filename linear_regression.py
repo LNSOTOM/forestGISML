@@ -13,7 +13,7 @@ X_list = list(EDAsurvey.columns)
 # B_Independent variables: features are the values that help to predict
 y = EDAsurvey['siteindex']#.values.reshape(-1,1)
 
-# Using Skicit-learn to split data into training and testing sets
+# Using Scikit-learn to split data into training and testing sets
 from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random_state=42)
 
