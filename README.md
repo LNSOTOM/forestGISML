@@ -20,7 +20,7 @@ Research Fellow in Earth Informatics at the ARC Industrial Transformation Resear
 Transforming the Mining Value Chain), <br />
 ∆ Dr. Robert Musk (Data Analyst/Forest Scientist at
 Timberlands Pacific) and <br />
-∆ Dr. Muhammad Bilal Amin (Computing & Information Systems, [University of Tasmania](https://www.utas.edu.au/technology-environments-design/ict)).
+∆ Dr. Muhammad Bilal Amin (Computing & Information Systems, [University of Tasmania](https://www.utas.edu.au/technology-environments-design/ict)).<br />
 For data collection and processing, GIS processing techniques have been applying to
 extract all the attributes and achieved more accurate predictions.
 ## 1.3 Data Dimension
