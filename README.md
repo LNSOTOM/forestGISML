@@ -60,6 +60,8 @@ optimal resource utilization with maximization of productivity.
 ∆ spatial_analysis.py <br />
 --Spatial Visualization <br />
 --Convert to shapefile, raster, add geometry points, assign projection <br />
+--Terrain analysis (digital elevation model=DEM) <br />
+--LiDAR (laz, las format) visualization with python
 --Spatial Autocorrelation: spatial weights, Moran's I
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LNSOTOM/forestGISML/master?filepath=regressionModel%20(1).ipynb)
