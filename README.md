@@ -14,7 +14,7 @@ values derived from a non-linear regression model that establish growth canopy p
 fit the multiple factors into the models, which could explain the productivity by location. 
 ## 1.2 Data Sourced
 The SI was sourced by the forestry company [Timberlands Pacific](https://www.tppl.com.au/).<br />
-Supervisors are:<br />
+Supervisors for this research:<br />
 ∆ [Dr. Matthew J Cracknell](https://www.utas.edu.au/profiles/staff/codes/matthew-cracknell) (Postdoctoral
 Research Fellow in Earth Informatics at the ARC Industrial Transformation Research Hub for
 Transforming the Mining Value Chain), <br />
