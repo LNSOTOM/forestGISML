@@ -51,7 +51,7 @@ optimal resource utilization with maximization of productivity.
 --Descriptive Statistics <br />
 --Correlation Coefficient analysis (Spearman)<br />
 --Principal Component Analysis (PCA)<br />
---Regression assumptions: Kernel Density Estimapte plot, Shapiro-Wilk Test, Normal Q-Q plot test Normal distribution Plot
+--Regression assumptions: Kernel Density Estimapte plot, Shapiro-Wilk Test, Normal Q-Q plot test Normal distribution Plot <br />
 --Confidence Intervals for Regression Accuracy <br />
 --Prediction Interval with 95%
 ## 2.5 Spatial Analysis
