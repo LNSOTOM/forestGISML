@@ -45,9 +45,11 @@ optimal resource utilization with maximization of productivity.
 ∆ gradientBoosting_regression.py <br />
 ∆ deepNeuralNetwork.py <br />
 ## 2.3 Exploration Data Analysis
+∆ EDA.py
 --Data visualization: bi-variate plots, bar plots... <br />
 --EDA Report (summary)
 ## 2.4 Statistics 
+∆ statistics.py
 --Descriptive Statistics <br />
 --Correlation Coefficient analysis (Spearman)<br />
 --Principal Component Analysis (PCA)<br />
@@ -55,6 +57,7 @@ optimal resource utilization with maximization of productivity.
 --Confidence Intervals for Regression Accuracy <br />
 --Prediction Interval with 95%
 ## 2.5 Spatial Analysis
+∆ spatial_analysis.py
 --Spatial Visualization <br />
 --Convert to shapefile, raster, add geometry points, assign projection <br />
 --Spatial Autocorrelation: spatial weights, Moran's I
