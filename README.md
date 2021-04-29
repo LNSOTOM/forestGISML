@@ -48,15 +48,15 @@ optimal resource utilization with maximization of productivity.
 -Data visualization: bi-variate plots, bar plots... <br />
 -EDA Report (summary)
 ## 2.4 Statistics 
--desriptive statistics <br />
--correlation coefficeint analysis (Spearman)<br />
--principal component analysis (PCA)<br />
+-Descriptive Statistics <br />
+-Correlation Coefficient analysis (Spearman)<br />
+-Principal Component Analysis (PCA)<br />
 -Regression assumptions: Kernel Density Estimapte plot, Shapiro-Wilk Test, Normal Q-Q plot test Normal distribution Plot
 -Confidence Intervals for Regression Accuracy <br />
 -Prediction Interval with 95%
 ## 2.5 Spatial Analysis
--spatial visualization <br />
--convert to shapefile, raster, add geometry points, assign projection <br />
--spatial autocorrelation
+-Spatial Visualization <br />
+-Convert to shapefile, raster, add geometry points, assign projection <br />
+-Spatial Autocorrelation: spatial weights, Moran's I
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LNSOTOM/forestGISML/master?filepath=regressionModel%20(1).ipynb)
