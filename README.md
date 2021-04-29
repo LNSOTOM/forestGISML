@@ -17,7 +17,7 @@ The SI was sourced by the forestry company Timberlands Pacific. Supervisors are:
 Research Fellow in Earth Informatics at the ARC Industrial Transformation Research Hub for
 Transforming the Mining Value Chain), Dr. Robert Musk (Data Analyst/Forest Scientist at
 Timberlands Pacific) and Dr. Muhammad Bilal Amin (Computing & Information Systems, University of Tasmania).
-For data collection and processing, GIS processing techniques has been applying to
+For data collection and processing, GIS processing techniques have been applying to
 extract all the attributes and achieved more accurate predictions.
 ## 1.3 Data Dimension
 The survey selected for analysis was collected from five sites with wide variation in landscape
