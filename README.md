@@ -44,7 +44,19 @@ optimal resource utilization with maximization of productivity.
 ∆ randomForest_regression.py <br />
 ∆ gradientBoosting_regression.py <br />
 ∆ deepNeuralNetwork.py <br />
-## 2.3 Statistics and Exploration Data Analysis
-## 2.4 Spatial Analysis
+## 2.3 Exploration Data Analysis
+-Data visualization: bi-variate plots, bar plots... <br />
+-EDA Report (summary)
+## 2.4 Statistics 
+-desriptive statistics <br />
+-correlation coefficeint analysis (Spearman)<br />
+-principal component analysis (PCA)<br />
+-Regression assumptions: Kernel Density Estimapte plot, Shapiro-Wilk Test, Normal Q-Q plot test Normal distribution Plot
+-Confidence Intervals for Regression Accuracy <br />
+-Prediction Interval with 95%
+## 2.5 Spatial Analysis
+-spatial visualization <br />
+-convert to shapefile, raster, add geometry points, assign projection <br />
+-spatial autocorrelation
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LNSOTOM/forestGISML/master?filepath=regressionModel%20(1).ipynb)
