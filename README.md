@@ -64,4 +64,8 @@ optimal resource utilization with maximization of productivity.
 --LiDAR (laz, las format) visualization with python <br />
 --Spatial Autocorrelation: spatial weights, Moran's I
 
+## 2.6 Perfomance and Model Validation
+∆ validation_models.py
+--Summary of ouputs
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LNSOTOM/forestGISML/master?filepath=regressionModel%20(1).ipynb)
