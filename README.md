@@ -41,9 +41,9 @@ optimal resource utilization with maximization of productivity.
 ∆ linear_regression.py <br />
 ∆ polynomial_regression.py <br />
 ∆ decisionTree_regression.py <br />
-∆ randomForests_regression.py <br />
+∆ randomForest_regression.py <br />
 ∆ gradientBoosting_regression.py <br />
-∆ deepLearning.py <br />
+∆ deepNeuralNetwork.py <br />
 ## 2.3 Statistics and Exploration Data Analysis
 ## 2.4 Spatial Analysis
 
