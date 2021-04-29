@@ -58,7 +58,7 @@ optimal resource utilization with maximization of productivity.
 --Prediction Interval with 95%
 ## 2.5 Spatial Analysis (ESDA)
 ∆ spatial_analysis.py <br />
---Spatial Visualization <br />
+--Spatial Visualization: shapefile, raster, las files <br />
 --Convert to shapefile, raster, add geometry points, assign projection <br />
 --Terrain analysis (digital elevation model=DEM) <br />
 --LiDAR (laz, las format) visualization with python <br />
