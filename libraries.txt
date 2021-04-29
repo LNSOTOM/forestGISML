@@ -64,6 +64,7 @@ import xarray
 !pip install GDAL
 
 ## RichDEM is a set of digital elevation model (DEM) hydrologic analysis tools. It can calculate a number of terrain attributes.
+!pip install richdem
 import richdem as rd
 
 # work easier to plot and manipulate spatial data in Python (crop raster, plot multiple bands...)
