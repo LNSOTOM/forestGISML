@@ -37,14 +37,14 @@ optimal resource utilization with maximization of productivity.
 ## 2.1 Getting Started
 0. libraries.txt <br />
 1. data_preprocessing.py <br />
-## 2.2 Machine Learning Algorithms
+## 2.2 Machine Learning Algorithms (MLAs)
 ∆ linear_regression.py <br />
 ∆ polynomial_regression.py <br />
 ∆ decisionTree_regression.py <br />
 ∆ randomForest_regression.py <br />
 ∆ gradientBoosting_regression.py <br />
 ∆ deepNeuralNetwork.py <br />
-## 2.3 Exploration Data Analysis
+## 2.3 Exploration Data Analysis (EDA)
 ∆ EDA.py <br />
 --Data visualization: bi-variate plots, bar plots... <br />
 --EDA Report (summary)
@@ -56,7 +56,7 @@ optimal resource utilization with maximization of productivity.
 --Regression assumptions: Kernel Density Estimapte plot, Shapiro-Wilk Test, Normal Q-Q plot test Normal distribution Plot <br />
 --Confidence Intervals for Regression Accuracy <br />
 --Prediction Interval with 95%
-## 2.5 Spatial Analysis
+## 2.5 Spatial Analysis (ESDA)
 ∆ spatial_analysis.py <br />
 --Spatial Visualization <br />
 --Convert to shapefile, raster, add geometry points, assign projection <br />
