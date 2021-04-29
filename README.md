@@ -56,7 +56,7 @@ optimal resource utilization with maximization of productivity.
 --Regression assumptions: Kernel Density Estimapte plot, Shapiro-Wilk Test, Normal Q-Q plot test Normal distribution Plot <br />
 --Confidence Intervals for Regression Accuracy <br />
 --Prediction Interval with 95%
-## 2.5 Spatial Analysis (ESDA)
+## 2.5 Exploraty Spatial Data Analysis (ESDA)
 ∆ spatial_analysis.py <br />
 --Spatial Visualization: shapefile, raster, las files <br />
 --Convert to shapefile, raster, add geometry points, assign projection <br />
