@@ -44,7 +44,7 @@ optimal resource utilization with maximization of productivity.
 ∆ randomForest_regression.py <br />
 ∆ gradientBoosting_regression.py <br />
 ∆ deepNeuralNetwork.py <br />
-## 2.3 Exploration Data Analysis (EDA)
+## 2.3 Exploratory Data Analysis (EDA)
 ∆ EDA.py <br />
 --Data visualization: bi-variate plots, bar plots... <br />
 --EDA Report (summary)
