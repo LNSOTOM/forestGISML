@@ -13,7 +13,8 @@ dominant tree at a site) values localized by site. The input of the model starts
 values derived from a non-linear regression model that establish growth canopy potential at a site and
 fit the multiple factors into the models, which could explain the productivity by location. 
 ## 1.2 Data Sourced
-The SI was sourced by the forestry company [Timberlands Pacific](https://www.tppl.com.au/). Supervisors are: [Dr. Matthew J Cracknell](https://www.utas.edu.au/profiles/staff/codes/matthew-cracknell) (Postdoctoral
+The SI was sourced by the forestry company [Timberlands Pacific](https://www.tppl.com.au/).<br />
+Supervisors are: [Dr. Matthew J Cracknell](https://www.utas.edu.au/profiles/staff/codes/matthew-cracknell) (Postdoctoral
 Research Fellow in Earth Informatics at the ARC Industrial Transformation Research Hub for
 Transforming the Mining Value Chain), Dr. Robert Musk (Data Analyst/Forest Scientist at
 Timberlands Pacific) and Dr. Muhammad Bilal Amin (Computing & Information Systems, [University of Tasmania](https://www.utas.edu.au/technology-environments-design/ict)).
