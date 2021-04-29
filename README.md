@@ -45,18 +45,18 @@ optimal resource utilization with maximization of productivity.
 ∆ gradientBoosting_regression.py <br />
 ∆ deepNeuralNetwork.py <br />
 ## 2.3 Exploration Data Analysis
--Data visualization: bi-variate plots, bar plots... <br />
--EDA Report (summary)
+--Data visualization: bi-variate plots, bar plots... <br />
+--EDA Report (summary)
 ## 2.4 Statistics 
--Descriptive Statistics <br />
--Correlation Coefficient analysis (Spearman)<br />
--Principal Component Analysis (PCA)<br />
--Regression assumptions: Kernel Density Estimapte plot, Shapiro-Wilk Test, Normal Q-Q plot test Normal distribution Plot
--Confidence Intervals for Regression Accuracy <br />
--Prediction Interval with 95%
+--Descriptive Statistics <br />
+--Correlation Coefficient analysis (Spearman)<br />
+--Principal Component Analysis (PCA)<br />
+--Regression assumptions: Kernel Density Estimapte plot, Shapiro-Wilk Test, Normal Q-Q plot test Normal distribution Plot
+--Confidence Intervals for Regression Accuracy <br />
+--Prediction Interval with 95%
 ## 2.5 Spatial Analysis
--Spatial Visualization <br />
--Convert to shapefile, raster, add geometry points, assign projection <br />
--Spatial Autocorrelation: spatial weights, Moran's I
+--Spatial Visualization <br />
+--Convert to shapefile, raster, add geometry points, assign projection <br />
+--Spatial Autocorrelation: spatial weights, Moran's I
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LNSOTOM/forestGISML/master?filepath=regressionModel%20(1).ipynb)
