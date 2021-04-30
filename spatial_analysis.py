@@ -338,16 +338,6 @@ from splot.esda import plot_moran
 #obtain a quick representation of the statistic that combines the Moran Plot (right) with a graphic of the empirical test that we carry out to obtain p_sim (left):
 plot_moran(moran);
 
-"""On the left panel we can see in grey the empirical distribution generated from simulating 999 random maps with the values of the Predicted variable and then calculating Moran’s I for each of those maps. 
-
-The blue rug signals the mean.
-
-In contrary, the red rug shows Moran’s I calculated for the variable using the geography observed in the dataset.
-
-The value under the observed pattern is slightly higher than under randomness. 
-
-This insight is confirmed on the right panel, where there is displayed an equivalent plot to the Moran Plot we created above.
-
 # 3 dataTest Residuals | Polynomial
 ## 3.1 Resinsert coord to RESIDUAL TEST set
 """
