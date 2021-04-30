@@ -4,7 +4,7 @@
 """##### I. DATA PREPARATION #####"""
 # 1 Load Dataset
 # Define relative path to file
-EDAsurvey = pd.read_csv('/content/drive/My Drive/EDA/EDAsurvey.csv')
+EDAsurvey = pd.read_csv('/content/drive/<path file>')
 EDAsurvey.head(3)
 
 # don't forget to clean and pre-process the data
