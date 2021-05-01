@@ -28,7 +28,6 @@ EDAsurvey_point.crs
 
 """## 3.2 Plot point geometries"""
 import matplotlib.pyplot as plt
-
 # Make subplots that are next to each other
 fig, (ax1) = plt.subplots(nrows=1, ncols=1, figsize=(12, 8))
 
@@ -89,7 +88,6 @@ sm._A = []
 cbar = fig.colorbar(sm, cax=cax)
 
 """### 3.4.2 Map option 2"""
-
 # 2. MAP 2
 fig, ax = plt.subplots(figsize=(14,12), subplot_kw={'aspect':'equal'})
 
@@ -253,7 +251,6 @@ dataTrain_coord_point['w_Actual_std'] = ( dataTrain_coord_point['w_Actual'] - da
 
 """### 1.3.1 Plot Moran I"""
 # creating a Moran Plot
-
 # Setup the figure and axis
 f, ax = plt.subplots(1, figsize=(10, 6))
 # Plot values
@@ -311,7 +308,6 @@ dataTest_coord_point['w_Predicted_std'] = ( dataTest_coord_point['w_Predicted'] 
 
 """### 2.3.1 Plot Moran I"""
 # creating a Moran Plot
-
 # Setup the figure and axis
 f, ax = plt.subplots(1, figsize=(10, 6))
 # Plot values
@@ -334,7 +330,6 @@ moran.p_sim
 
 """### 2.3.3 Moran I plot vs p-value"""
 from splot.esda import plot_moran
-
 #obtain a quick representation of the statistic that combines the Moran Plot (right) with a graphic of the empirical test that we carry out to obtain p_sim (left):
 plot_moran(moran);
 
@@ -370,7 +365,6 @@ dataTest_coord_point['w_residuals_std'] = ( dataTest_coord_point['w_residuals'] 
 
 """### 3.3.1 Plot Moran I"""
 # creating a Moran Plot
-
 # Setup the figure and axis
 f, ax = plt.subplots(1, figsize=(10, 6))
 # Plot values
