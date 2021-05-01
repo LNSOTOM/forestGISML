@@ -1,5 +1,5 @@
 ############################
-# SPATIAL ANALYSIS & SPATIAL AUTOCORRELATION
+# SPATIAL ANALYSIS & SPATIAL AUTOCORRELATION BEFORE ML
 ############################
 """##### I. DATA PREPARATION #####"""
 # 1 Load Dataset
