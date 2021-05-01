@@ -7,7 +7,7 @@
 EDAsurvey = pd.read_csv('/content/drive/<path file>')
 EDAsurvey.head(3)
 
-# don't forget to clean and pre-process the data
+# don't forget to clean and pre-process the data: check [data_preprocessing.py]
 
 """##### III. SPATIAL ANALYSIS #####"""
 ## 3.0 Convert PandasDataFrame to GeoDatrame
