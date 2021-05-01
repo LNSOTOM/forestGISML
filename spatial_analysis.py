@@ -385,6 +385,5 @@ moran.p_sim
 
 """### 3.3.3 Moran I plot vs p-value"""
 from splot.esda import plot_moran
-
 #obtain a quick representation of the statistic that combines the Moran Plot (right) with a graphic of the empirical test that we carry out to obtain p_sim (left):
 plot_moran(moran);
