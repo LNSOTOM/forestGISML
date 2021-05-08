@@ -238,7 +238,7 @@ rcParams['figure.figsize'] = 8, 6
 fig = exp.as_pyplot_figure()
 plt.savefig('LIME_DTree.jpg', bbox_inches='tight', dpi=300)
 
-"""##### 8 Fit: Decision Tree with Cross Validation #####"""
+"""##### 8 [ Fit: Decision Tree with Cross Validation ] #####"""
 ## 8.1 Pipeline with cv=10
 from sklearn.model_selection import GridSearchCV
 from sklearn import preprocessing
@@ -371,7 +371,6 @@ fig.suptitle('Model with 10-fold cross-validation')
 ax = fig.add_subplot(111)
 import matplotlib.pyplot as plt
 plt.style.use('classic')
-
 fig.set_size_inches(4, 4)
 
 medianprops = dict(linewidth=1.5, linestyle='-', color='#fc3468')
@@ -451,10 +450,10 @@ plt.savefig('SquaredErrorPredicted_DTreeK.png', bbox_inches='tight', dpi=300)
 best_result = grid_cv.best_score_
 print(best_result)
 
-"""# 9 Spatial Visualization for Predictions"""
+"""##### 9 [ Spatial Visualization for Predictions ] #####"""
 #check file [spatialAnalysis_afterML.py]
 
-"""# 10 Regression Assumptions"""
+"""##### 10 [ Regression Assumptions ] #####"""
 error = dataTest['Actual'] - dataTest['Predicted']
 #error = y_test - predictedStand
 #error_info = pd.DataFrame({'y_true': y_test, 'y_pred': predictedStand, 'error': error}, columns=['y_true', 'y_pred', 'error'])
