@@ -66,7 +66,7 @@ optimal resource utilization with maximization of productivity.
 --LiDAR (laz, las format) visualization with python <br />
 --Spatial Autocorrelation: spatial weights, Moran's I
 
-## 2.6 Perfomance and Model Validation
+## 2.6 Performance and Model Validation
 ∆ validation_models.py <br />
 --Summary of ouputs
 
