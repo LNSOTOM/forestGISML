@@ -194,7 +194,7 @@ for i in r.importances_mean.argsort()[::-1]:
               f"{r.importances_mean[i]:.3f}"
              f" +/- {r.importances_std[i]:.3f}")
 
-"""##### 7 LIME: Local Interpretable Model-agnostic Explanations #####"""
+"""##### 7 [ LIME: Local Interpretable Model-agnostic Explanations ] #####"""
 # 0.LIME - Local Interpretable Model-Agnostic
 import lime 
 import lime.lime_tabular
