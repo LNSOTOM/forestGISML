@@ -42,7 +42,7 @@ optimal resource utilization with maximization of productivity.
 ∆ polynomial_regression.py <br />
 ∆ decisionTree_regression.py <br />
 ∆ randomForest_regression.py <br />
-∆ gradientBoosting_regression.py <br />
+∆ gradientBoostedDT_regression.py <br />
 ∆ deepNeuralNetwork.py <br />
 ## 2.3 Exploratory Data Analysis (EDA)
 ∆ EDA.py <br />
