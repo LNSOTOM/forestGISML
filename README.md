@@ -37,7 +37,7 @@ optimal resource utilization with maximization of productivity.
 ## 2.1 Getting Started
 0. libraries.txt <br />
 1. data_preprocessing.py <br />
-## 2.2 Machine Learning Algorithms (MLAs) [ Step 3: Modeling ]
+## 2.2 Machine Learning Algorithms (MLAs) [ Step 3: Modeling: train model ]
 ∆ linear_regression.py <br />
 ∆ polynomial_regression.py <br />
 ∆ decisionTree_regression.py <br />
@@ -66,7 +66,7 @@ optimal resource utilization with maximization of productivity.
 --LiDAR (laz, las format) visualization with python <br />
 --Spatial Autocorrelation: spatial weights, Moran's I
 
-## 2.6 Performance and Model Validation
+## 2.6 Performance and Model Validation [ Step 3: Modeling: perform error analysis ]
 ∆ validation_models.py <br />
 --Summary of ouputs
 
