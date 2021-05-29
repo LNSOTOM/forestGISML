@@ -1,6 +1,6 @@
 # forestGISML
 
-# 1 Overview [ STEP 1: Scope ]
+# 1 Overview [ Step 1: Scope ]
 This research is about forest productivity, identifying the conditioning factors such
 as: climatic variables derived from rainfall and temperatures, topographic attributes derived from digital
 elevation model, edaphic attributes (geology composition and soil attributes) that contribute to explain
@@ -23,7 +23,7 @@ Timberlands Pacific) and <br />
 ∆ Dr. Muhammad Bilal Amin (Computing & Information Systems, [University of Tasmania](https://www.utas.edu.au/technology-environments-design/ict)).<br />
 For data collection and processing, GIS processing techniques have been applying to
 extract all the attributes and achieved more accurate predictions.
-## 1.3 Data Dimension [ STEP 2: Data Definition & Baseline ]
+## 1.3 Data Dimension [ Step 2: Data Definition & Baseline ]
 The survey selected for analysis was collected from five sites with wide variation in landscape
 conditioning and climate factors, and a diverse geology and soil attributes related to the area that
 influence the productivity of radiata pine across the estate. The data used for the modelling is
@@ -37,7 +37,7 @@ optimal resource utilization with maximization of productivity.
 ## 2.1 Getting Started
 0. libraries.txt <br />
 1. data_preprocessing.py <br />
-## 2.2 Machine Learning Algorithms (MLAs) [ STEP 3: Modeling ]
+## 2.2 Machine Learning Algorithms (MLAs) [ Step 3: Modeling ]
 ∆ linear_regression.py <br />
 ∆ polynomial_regression.py <br />
 ∆ decisionTree_regression.py <br />
