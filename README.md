@@ -19,7 +19,7 @@ Supervisors for this research:<br />
 Research Fellow in Earth Informatics at the ARC Industrial Transformation Research Hub for
 Transforming the Mining Value Chain), <br />
 ∆ Dr. Robert Musk (Data Analyst/Forest Scientist at
-Timberlands Pacific) and <br />
+Timberlands Pacific) <br />
 ## 1.3 Data Dimension [ Step 2: Data Definition & Baseline ]
 The survey selected for analysis was collected from five sites with wide variation in landscape
 conditioning and climate factors, and a diverse geology and soil attributes related to the area that
