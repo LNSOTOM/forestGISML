@@ -1,4 +1,4 @@
-# forestGISML: link to [Journal Article](https://www.sciencedirect.com/science/article/pii/S0168169923001928) and [Master Thesis](https://www.notion.so/Versions_ICTthesis-bfdecbc33eba4473895196fba35d7a38#01923cd692fa41d59b18c056232b070a)
+# forestGISML: link to (Computers and Electronics in Agriculture)[Journal Article](https://www.sciencedirect.com/science/article/pii/S0168169923001928) and [Master Thesis](https://www.notion.so/Versions_ICTthesis-bfdecbc33eba4473895196fba35d7a38#01923cd692fa41d59b18c056232b070a)
 
 # 1 Overview [ Step 1: Scope ]
 This research is about forest productivity, identifying the conditioning factors such
