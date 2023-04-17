@@ -1,4 +1,5 @@
 # forestGISML: link to [Journal Article](https://www.sciencedirect.com/science/article/pii/S0168169923001928) (Computers and Electronics in Agriculture) and [Master Thesis](https://www.notion.so/Versions_ICTthesis-bfdecbc33eba4473895196fba35d7a38#01923cd692fa41d59b18c056232b070a)
+![graphicalAbstract](https://user-images.githubusercontent.com/39131939/232376764-ff945451-77a3-46fa-9bbe-654ed4ee7170.png)
 
 # 1 Overview [ Step 1: Scope ]
 This research is about forest productivity, identifying the conditioning factors such
@@ -65,5 +66,4 @@ optimal resource utilization with maximization of productivity.
 ## 2.6 Performance and Model Validation [ Step 3: Modeling: perform error analysis ]
 ∆ validation_models.py <br />
 --Summary of ouputs
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LNSOTOM/forestGISML/master?filepath=regressionModel%20(1).ipynb)
